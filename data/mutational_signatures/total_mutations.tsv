@@ -1,0 +1,25 @@
+Cancer Type	Type	Mean Ratio (Male / Female)	Q-value
+SKCM	Total Single Point Mutations	1.60	5.68E-03
+GBM	Total Single Point Mutations	0.31	1.04E-02
+PAAD	Total Single Point Mutations	0.18	6.98E-02
+LGG	Total Single Point Mutations	0.32	8.66E-02
+LIHC	Total Single Point Mutations	1.28	8.66E-02
+BLCA	Total Single Point Mutations	1.19	1.53E-01
+KIPAN	Total Single Point Mutations	1.08	1.53E-01
+COAD	Total Single Point Mutations	0.71	2.11E-01
+PCPG	Total Single Point Mutations	0.91	2.11E-01
+STAD	Total Single Point Mutations	0.85	2.11E-01
+DLBC	Total Single Point Mutations	1.35	2.98E-01
+CHOL	Total Single Point Mutations	2.29	3.51E-01
+LAML	Total Single Point Mutations	1.52	3.51E-01
+LUAD	Total Single Point Mutations	1.12	3.51E-01
+SARC	Total Single Point Mutations	2.07	4.14E-01
+HNSC	Total Single Point Mutations	0.95	4.22E-01
+LUSC	Total Single Point Mutations	0.98	5.22E-01
+MESO	Total Single Point Mutations	0.61	5.39E-01
+THYM	Total Single Point Mutations	0.66	5.67E-01
+THCA	Total Single Point Mutations	0.97	7.49E-01
+ACC	Total Single Point Mutations	0.98	8.41E-01
+ESCA	Total Single Point Mutations	0.81	8.91E-01
+READ	Total Single Point Mutations	2.66	8.91E-01
+
