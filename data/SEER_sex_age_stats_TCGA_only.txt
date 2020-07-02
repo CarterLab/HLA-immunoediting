@@ -1,0 +1,22 @@
+# all races. Number of new cases per 100k persons											
+	male	female		<20	20-34	35-44	45-54	55-64	65-74	75-84	>85
+bladder	35.2	8.7		0.1	0.4	1.3	6	18.1	30.2	28.7	15.1
+brain and other nervous system	7.5	5.4		12.2	8.9	7.6	13	20.4	19.8	13	5.1
+breast		127.5		0	1.9	8.4	20.1	35.6	24.8	13.7	5.6
+cervix uteri		7.3		0.1	13.4	23	22.9	19.7	11.9	6.3	2.7
+colon and rectum	44.2	33.9		0.2	1.7	4.4	15	22.2	24.4	20.4	11.7
+esophagus	7.3	1.8		0	0.4	1.8	9.8	26.9	31.4	20.7	8.9
+kidney and renal pelvis	22.1	10.9		1.1	1.9	5.9	15.4	26.7	27.7	15.9	5.6
+liver and intrahepatic bile duct	13.6	4.7		0.8	0.7	1.7	10.7	36.4	27.6	16	6
+lung and bronchus	63	48.9		0	0.2	1	7	21.7	33.7	26.7	9.6
+diffuse large B-Cell lymphoma 	6.7	4.6		1.4	5.3	6.3	12.9	21.3	24.2	20	8.7
+acute myeloid leukemia 	5.2	3.5		4.5	5.7	5.3	9.1	16.8	25.1	22.7	11
+chronic myeloid leukemia	2.4	1.4		2	7.9	8.1	13.5	18	21.5	19.4	9.6
+melanoma of the skin	28.8	17.5		0.4	5.4	7.3	14.4	22.5	24.1	17.4	8.6
+ovary		11.4		1.3	4	6.7	17.5	24.7	22.6	15.3	7.9
+pancreas	14.6	11.5		0.1	0.6	1.8	8.4	22	29.2	24.4	13.5
+prostate	109.5			0	0	0.5	8.7	32.7	39.2	14.9	4
+stomach	10	5.3		0.1	1.6	4.3	11.7	21.7	26.5	22.5	11.5
+testis	5.9			5.3	50.4	23.1	13.1	5.6	1.7	0.6	0.2
+thyroid	8	23.3		1.8	15.8	18.4	22.6	21.1	13.8	5.3	1.2
+uterus		27.5		0	1.5	5	15.6	34.1	28.1	11.7	3.9
